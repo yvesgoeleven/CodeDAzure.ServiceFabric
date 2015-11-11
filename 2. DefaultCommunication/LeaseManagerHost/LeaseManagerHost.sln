@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "LeaseManagerHost", "LeaseManagerHost\LeaseManagerHost.sfproj", "{B5320D80-8567-44C1-9F7D-69FD3B9F2212}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeaseManager", "LeaseManager\LeaseManager.csproj", "{65D142C1-0649-4C4D-9046-0AC7F36E3B66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5320D80-8567-44C1-9F7D-69FD3B9F2212}.Debug|x64.ActiveCfg = Debug|x64
+		{B5320D80-8567-44C1-9F7D-69FD3B9F2212}.Debug|x64.Build.0 = Debug|x64
+		{B5320D80-8567-44C1-9F7D-69FD3B9F2212}.Debug|x64.Deploy.0 = Debug|x64
+		{B5320D80-8567-44C1-9F7D-69FD3B9F2212}.Release|x64.ActiveCfg = Release|x64
+		{B5320D80-8567-44C1-9F7D-69FD3B9F2212}.Release|x64.Build.0 = Release|x64
+		{B5320D80-8567-44C1-9F7D-69FD3B9F2212}.Release|x64.Deploy.0 = Release|x64
+		{65D142C1-0649-4C4D-9046-0AC7F36E3B66}.Debug|x64.ActiveCfg = Debug|x64
+		{65D142C1-0649-4C4D-9046-0AC7F36E3B66}.Debug|x64.Build.0 = Debug|x64
+		{65D142C1-0649-4C4D-9046-0AC7F36E3B66}.Release|x64.ActiveCfg = Release|x64
+		{65D142C1-0649-4C4D-9046-0AC7F36E3B66}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
